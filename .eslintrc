@@ -1,0 +1,6 @@
+﻿{
+    "extends": "eslint-config-zoro/base",
+    "env": {
+        "mocha": true
+    }
+}
