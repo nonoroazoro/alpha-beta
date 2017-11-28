@@ -1,15 +1,2 @@
-﻿*.sublime-project
-*.sublime-workspace
-
-*.dat
-*.dll
-*.DS_Store
-*.log
-*.suo
-*.tmp
-*.user
- 
-/.vs/
-/db/
-/node_modules/
-/obj/
+﻿# Node files
+node_modules
